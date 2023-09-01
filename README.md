@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS**
 
-- 👨‍💻 All of my projects are available at [ttchan.dev](ttchan.dev)
+- 👨‍💻 All of my projects are available at [ttchan.dev](https://ttchan.dev)
 
 - 💬 Ask me about **react, javascript, html, css, data**
 
