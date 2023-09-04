@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [🐞 Buggy - Bug Tracker](https://bug-2s2y.onrender.com/)
 
-- 🌱 I’m currently learning **JavaScript, ReactJS**
+- 🌱 I’m currently learning **JavaScript, ReactJS, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [ttchan.dev](https://ttchan.dev)
 
