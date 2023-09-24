@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tse Chan</h1>
 <h3 align="center">A passionate Full Stack developer from Singapore 👋</h3>
 
-- 🔭 I’m currently working on [🐞 Buggy - Bug Tracker](https://bug-2s2y.onrender.com/)
+- 🔭 I’m currently working on [🪙 DeciDeFi built on React - Bootstrap](https://deci2defi.web.app/)
 
 - 🌱 I’m currently learning **JavaScript, Bootstrap, ReactJS, HTML, CSS**
 
